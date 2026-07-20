@@ -28,12 +28,27 @@
     return `<option value="${escapeHtml(value)}">${escapeHtml(label || value)}</option>`;
   }
 
+  function offerUrl(item) {
+    const url = new URL(window.location.href);
+    url.hash = "";
+    url.searchParams.set("periodo", item.periodo);
+    url.searchParams.set("curso", item.curso);
+    url.searchParams.set("semestre", item.semestre);
+    url.searchParams.set("disciplina", item.disciplina);
+    return `${url.pathname}?${url.searchParams.toString()}`;
+  }
+
   function resultRow(item) {
     const remaining =
       item.vagasRestantes === null ? "Não apurado" : item.vagasRestantes;
     return `
       <tr>
-        <td data-label="Disciplina">${escapeHtml(item.disciplina)}</td>
+        <td data-label="Disciplina">
+          <a class="results-discipline-link" href="${escapeHtml(offerUrl(item))}" data-offer-link aria-label="Ver horários e detalhes de ${escapeHtml(item.disciplina)}">
+            <strong>${escapeHtml(item.disciplina)}</strong>
+            <small>Ver horários e detalhes →</small>
+          </a>
+        </td>
         <td data-label="Período">${escapeHtml(item.periodo)}</td>
         <td data-label="Curso">${escapeHtml(item.curso)}</td>
         <td class="number" data-label="Semestre">${escapeHtml(item.semestre)}</td>
@@ -61,6 +76,30 @@
         </div>
       </div>
       <p class="results-public-note"><strong>Atenção:</strong> ${escapeHtml(data.observacao)}</p>
+      <aside class="results-next-steps" aria-labelledby="results-next-steps-title">
+        <div class="results-next-steps-heading">
+          <p>O processo continua</p>
+          <h3 id="results-next-steps-title">Este resultado não encerra a rematrícula</h3>
+          <span>Se uma solicitação não foi atendida, acompanhe obrigatoriamente as próximas oportunidades.</span>
+        </div>
+        <div class="results-next-steps-grid">
+          <article>
+            <strong>Ajuste de Matrícula</strong>
+            <span>21 a 26 de julho · Q-Acadêmico</span>
+            <b>Resultado em 27/07, após as 10h</b>
+          </article>
+          <article>
+            <strong>Ajuste Extraordinário</strong>
+            <span>28 de julho a 9 de agosto · Q-Acadêmico</span>
+            <b>Resultado em 10/08, após as 10h</b>
+          </article>
+          <article>
+            <strong>Reajuste excepcional</strong>
+            <span>10 e 11 de agosto · sistema SEI</span>
+            <b>Casos excepcionais, sujeitos à análise</b>
+          </article>
+        </div>
+      </aside>
       <div class="results-public-summary" aria-label="Resumo do processamento">
         <article><strong>${data.totais.disciplinas}</strong><span>disciplinas</span></article>
         <article><strong>${data.totais.solicitacoes}</strong><span>solicitações</span></article>
@@ -91,6 +130,65 @@
     const content = section.querySelector("[data-results-content]");
     const clear = section.querySelector("[data-clear-results]");
     let limit = PAGE_SIZE;
+
+    async function focusOffer(item) {
+      const offersSection = document.getElementById("ofertas");
+      if (!offersSection) return;
+
+      const offerCourse =
+        item.curso === "Técnico em Eventos"
+          ? "Técnico em Eventos — EaD"
+          : item.curso;
+      const setValue = (control, value, eventName) => {
+        if (!control) return;
+        const descriptor = Object.getOwnPropertyDescriptor(
+          Object.getPrototypeOf(control),
+          "value",
+        );
+        descriptor?.set.call(control, value);
+        control.dispatchEvent(new Event(eventName, { bubbles: true }));
+      };
+      const wait = (duration = 60) =>
+        new Promise((resolve) => window.setTimeout(resolve, duration));
+
+      let controls = offersSection.querySelectorAll(".filters select");
+      setValue(controls[0], item.periodo, "change");
+      await wait();
+      controls = offersSection.querySelectorAll(".filters select");
+      setValue(controls[1], offerCourse, "change");
+      await wait();
+      controls = offersSection.querySelectorAll(".filters select");
+      setValue(controls[2], item.semestre, "change");
+      await wait();
+      setValue(
+        offersSection.querySelector('.filters input[type="search"]'),
+        item.disciplina,
+        "input",
+      );
+      await wait(100);
+
+      const target = [...offersSection.querySelectorAll(".offer-card")].find(
+        (card) =>
+          !card.classList.contains("unavailable-card") &&
+          normalize(card.querySelector("h3")?.textContent) ===
+            normalize(item.disciplina),
+      );
+      (target || offersSection).scrollIntoView({
+        behavior: "smooth",
+        block: target ? "center" : "start",
+      });
+      if (target) {
+        target.classList.remove("result-target-highlight");
+        void target.offsetWidth;
+        target.classList.add("result-target-highlight");
+        target.setAttribute("tabindex", "-1");
+        target.focus({ preventScroll: true });
+        window.setTimeout(() => {
+          target.classList.remove("result-target-highlight");
+          target.removeAttribute("tabindex");
+        }, 4200);
+      }
+    }
 
     periodSelect.innerHTML =
       option("Todos") +
@@ -198,8 +296,35 @@
       limit = PAGE_SIZE;
       render();
     });
+    content.addEventListener("click", (event) => {
+      const link = event.target.closest("[data-offer-link]");
+      if (!link) return;
+      event.preventDefault();
+      const row = link.closest("tr");
+      const item = data.resultados.find(
+        (candidate) =>
+          candidate.periodo === row.children[1].textContent.trim() &&
+          candidate.curso === row.children[2].textContent.trim() &&
+          candidate.semestre === row.children[3].textContent.trim() &&
+          normalize(candidate.disciplina) ===
+            normalize(link.querySelector("strong").textContent),
+      );
+      if (!item) return;
+      window.history.replaceState({}, "", offerUrl(item));
+      focusOffer(item);
+    });
 
     render();
+
+    const params = new URLSearchParams(window.location.search);
+    const linkedItem = data.resultados.find(
+      (item) =>
+        item.periodo === params.get("periodo") &&
+        item.curso === params.get("curso") &&
+        item.semestre === params.get("semestre") &&
+        normalize(item.disciplina) === normalize(params.get("disciplina")),
+    );
+    if (linkedItem) window.setTimeout(() => focusOffer(linkedItem), 120);
   }
 
   function addEntryLinks() {
@@ -215,7 +340,7 @@
     const actions = document.querySelector(".hero-actions");
     if (actions && !actions.querySelector('[href="#resultado-pedido"]')) {
       const link = document.createElement("a");
-      link.className = "button secondary";
+      link.className = "button results-entry-button";
       link.href = "#resultado-pedido";
       link.textContent = "Ver resultado do pedido";
       actions.appendChild(link);
