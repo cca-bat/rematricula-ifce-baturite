@@ -1,0 +1,972 @@
+{
+  "atualizadoEm": "20/07/2026",
+  "observacao": "As vagas restantes correspondem ao saldo apurado no processamento do Pedido de Matrícula e não garantem vaga em etapas posteriores.",
+  "totais": {
+    "disciplinas": 96,
+    "solicitacoes": 1270,
+    "aceitas": 1231,
+    "negadas": 39
+  },
+  "resultados": [
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S7",
+      "disciplina": "ESTÁGIO SUPERVISIONADO I: OFICINA DE ELABORAÇÃO DE MATERIAL DIDÁTICO DA LÍNGUA INGLESA",
+      "solicitacoes": 27,
+      "aceitas": 27,
+      "negadas": 0,
+      "vagasRestantes": 13
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S7",
+      "disciplina": "HISTÓRIA DA CULTURA INDÍGENA E AFRO BRASILEIRA",
+      "solicitacoes": 23,
+      "aceitas": 22,
+      "negadas": 1,
+      "vagasRestantes": 18
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S7",
+      "disciplina": "LITERATURA AFRICANA DE LÍNGUA PORTUGUESA",
+      "solicitacoes": 25,
+      "aceitas": 25,
+      "negadas": 0,
+      "vagasRestantes": 15
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S7",
+      "disciplina": "LITERATURA INGLESA III",
+      "solicitacoes": 26,
+      "aceitas": 26,
+      "negadas": 0,
+      "vagasRestantes": 14
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S7",
+      "disciplina": "SEMIÓTICA",
+      "solicitacoes": 23,
+      "aceitas": 22,
+      "negadas": 1,
+      "vagasRestantes": 18
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S7",
+      "disciplina": "TRADUÇÃO DA LÍNGUA INGLESA",
+      "solicitacoes": 23,
+      "aceitas": 22,
+      "negadas": 1,
+      "vagasRestantes": 18
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "ESTÁGIO SUPERVISIONADO II: LÍNGUA INGLESA - OBSERVAÇÃO",
+      "solicitacoes": 17,
+      "aceitas": 17,
+      "negadas": 0,
+      "vagasRestantes": 23
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "ESTÁGIO SUPERVISIONADO IV: LÍNGUA PORTUGUESA - INTERVENÇÃO NO ENSINO MÉDIO",
+      "solicitacoes": 24,
+      "aceitas": 21,
+      "negadas": 3,
+      "vagasRestantes": 19
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "INTRODUÇÃO AO ESTUDO DE LIBRAS",
+      "solicitacoes": 12,
+      "aceitas": 10,
+      "negadas": 2,
+      "vagasRestantes": 30
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "LINGUÍSTICA APLICADA",
+      "solicitacoes": 20,
+      "aceitas": 20,
+      "negadas": 0,
+      "vagasRestantes": 20
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "LITERATURA COMPARADA",
+      "solicitacoes": 10,
+      "aceitas": 10,
+      "negadas": 0,
+      "vagasRestantes": 30
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "MORFOSSINTAXE DA LÍNGUA INGLESA",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "PESQUISA CIENTÍFICA",
+      "solicitacoes": 18,
+      "aceitas": 17,
+      "negadas": 1,
+      "vagasRestantes": 23
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S8",
+      "disciplina": "SEMINÁRIOS",
+      "solicitacoes": 25,
+      "aceitas": 24,
+      "negadas": 1,
+      "vagasRestantes": 16
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "EDUCAÇÃO DE JOVENS E ADULTOS",
+      "solicitacoes": 7,
+      "aceitas": 7,
+      "negadas": 0,
+      "vagasRestantes": 33
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "EDUCAÇÃO FÍSICA",
+      "solicitacoes": 11,
+      "aceitas": 11,
+      "negadas": 0,
+      "vagasRestantes": 29
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "EDUCAÇÃO POPULAR",
+      "solicitacoes": 11,
+      "aceitas": 11,
+      "negadas": 0,
+      "vagasRestantes": 29
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "ESTÁGIO SUPERVISIONADO III: LÍNGUA INGLESA - INTERVENÇÃO",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "ESTILÍSTICA",
+      "solicitacoes": 21,
+      "aceitas": 20,
+      "negadas": 1,
+      "vagasRestantes": 20
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "GRAMÁTICA DA LÍNGUA INGLESA II",
+      "solicitacoes": 0,
+      "aceitas": 0,
+      "negadas": 0,
+      "vagasRestantes": 40
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "GRAMÁTICA DA LÍNGUA INGLESA III",
+      "solicitacoes": 0,
+      "aceitas": 0,
+      "negadas": 0,
+      "vagasRestantes": 40
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "GRAMÁTICA DA LÍNGUA INGLESA IV",
+      "solicitacoes": 0,
+      "aceitas": 0,
+      "negadas": 0,
+      "vagasRestantes": 40
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "HISTÓRIA DA ARTE",
+      "solicitacoes": 10,
+      "aceitas": 8,
+      "negadas": 2,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "LITERATURA CEARENSE",
+      "solicitacoes": 20,
+      "aceitas": 20,
+      "negadas": 0,
+      "vagasRestantes": 20
+    },
+    {
+      "periodo": "2026.1",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S9",
+      "disciplina": "PROJETOS SOCIAIS",
+      "solicitacoes": 22,
+      "aceitas": 22,
+      "negadas": 0,
+      "vagasRestantes": 18
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S3",
+      "disciplina": "LÍNGUA PORTUGUESA I - MORFOLOGIA",
+      "solicitacoes": 15,
+      "aceitas": 15,
+      "negadas": 0,
+      "vagasRestantes": 25
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S3",
+      "disciplina": "LINGUÍSTICA TEXTUAL",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S3",
+      "disciplina": "LITERATURA BRASILEIRA II",
+      "solicitacoes": 13,
+      "aceitas": 13,
+      "negadas": 0,
+      "vagasRestantes": 27
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S3",
+      "disciplina": "LITERATURA PORTUGUESA II",
+      "solicitacoes": 15,
+      "aceitas": 14,
+      "negadas": 1,
+      "vagasRestantes": 26
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S3",
+      "disciplina": "PSICOLOGIA DO DESENVOLVIMENTO",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S4",
+      "disciplina": "EDUCAÇÃO INCLUSIVA",
+      "solicitacoes": 22,
+      "aceitas": 19,
+      "negadas": 3,
+      "vagasRestantes": 21
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S4",
+      "disciplina": "ESTÁGIO SUPERVISIONADO I: OFICINA E ANÁLISE DE ELABORAÇÃO DE MATERIAL DIDÁTICO",
+      "solicitacoes": 19,
+      "aceitas": 19,
+      "negadas": 0,
+      "vagasRestantes": 21
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S4",
+      "disciplina": "LÍNGUA INGLESA IV",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S4",
+      "disciplina": "LÍNGUA PORTUGUESA II - SINTAXE",
+      "solicitacoes": 17,
+      "aceitas": 17,
+      "negadas": 0,
+      "vagasRestantes": 23
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S4",
+      "disciplina": "LITERATURA BRASILEIRA III",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S5",
+      "disciplina": "ESTÁGIO SUPERVISIONADO II: LÍNGUA PORTUGUESA - OBSERVAÇÃO",
+      "solicitacoes": 20,
+      "aceitas": 18,
+      "negadas": 2,
+      "vagasRestantes": 22
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S5",
+      "disciplina": "LÍNGUA INGLESA V",
+      "solicitacoes": 18,
+      "aceitas": 18,
+      "negadas": 0,
+      "vagasRestantes": 22
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S5",
+      "disciplina": "LITERATURA INGLESA I",
+      "solicitacoes": 21,
+      "aceitas": 19,
+      "negadas": 2,
+      "vagasRestantes": 21
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S6",
+      "disciplina": "ESTÁGIO SUPERVISIONADO III: LÍNGUA PORTUGUESA - INTERVENÇÃO NO EF",
+      "solicitacoes": 15,
+      "aceitas": 14,
+      "negadas": 1,
+      "vagasRestantes": 26
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S6",
+      "disciplina": "LÍNGUA INGLESA VI",
+      "solicitacoes": 18,
+      "aceitas": 18,
+      "negadas": 0,
+      "vagasRestantes": 22
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Licenciatura em Letras",
+      "semestre": "S6",
+      "disciplina": "SOCIOLINGUÍSTICA",
+      "solicitacoes": 18,
+      "aceitas": 18,
+      "negadas": 0,
+      "vagasRestantes": 22
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S2",
+      "disciplina": "CONTABILIDADE GERAL",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S2",
+      "disciplina": "EMPREENDEDORISMO",
+      "solicitacoes": 13,
+      "aceitas": 12,
+      "negadas": 1,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S2",
+      "disciplina": "GESTÃO DE PESSOAS",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S2",
+      "disciplina": "GESTÃO SOCIOAMBIENTAL",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S2",
+      "disciplina": "MATEMÁTICA FINANCEIRA",
+      "solicitacoes": 13,
+      "aceitas": 13,
+      "negadas": 0,
+      "vagasRestantes": 27
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S3",
+      "disciplina": "ADMINISTRAÇÃO FINANCEIRA",
+      "solicitacoes": 13,
+      "aceitas": 13,
+      "negadas": 0,
+      "vagasRestantes": 27
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S3",
+      "disciplina": "FUNDAMENTOS DE MARKETING",
+      "solicitacoes": 15,
+      "aceitas": 15,
+      "negadas": 0,
+      "vagasRestantes": 25
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S3",
+      "disciplina": "GESTÃO DE CUSTOS",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S3",
+      "disciplina": "LOGÍSTICA",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Administração",
+      "semestre": "S3",
+      "disciplina": "SEGURANÇA DO TRABALHO",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "ALIMENTOS E BEBIDAS PARA EVENTOS",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "CERIMONIAL, PROTOCOLO E ETIQUETA",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "CONTROLE DE QUALIDADE EM SERVIÇOS DE ALIMENTOS E BEBIDAS",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "EMPREENDEDORISMO EM EVENTOS",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "GESTÃO DE RISCOS EM EVENTOS",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "LINGUAGEM E COMUNICAÇÃO",
+      "solicitacoes": 2,
+      "aceitas": 2,
+      "negadas": 0,
+      "vagasRestantes": 38
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "MARKETING PARA EVENTOS",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Técnico em Eventos",
+      "semestre": "S2",
+      "disciplina": "PROCEDIMENTOS ADMINISTRATIVOS EM EVENTOS",
+      "solicitacoes": 9,
+      "aceitas": 9,
+      "negadas": 0,
+      "vagasRestantes": 31
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "ANÁLISE SENSORIAL DE ALIMENTOS E BEBIDAS",
+      "solicitacoes": 15,
+      "aceitas": 15,
+      "negadas": 0,
+      "vagasRestantes": 20
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "CULTURAS ALIMENTARES AFRICANA E INDÍGENA",
+      "solicitacoes": 14,
+      "aceitas": 14,
+      "negadas": 0,
+      "vagasRestantes": 21
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "EMPREENDEDORISMO",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 23
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "ENOLOGIA",
+      "solicitacoes": 15,
+      "aceitas": 14,
+      "negadas": 1,
+      "vagasRestantes": 21
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "HABILIDADES E TÉCNICAS CULINÁRIAS II",
+      "solicitacoes": 13,
+      "aceitas": 13,
+      "negadas": 0,
+      "vagasRestantes": 22
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "PLANEJAMENTO DE CARDÁPIOS",
+      "solicitacoes": 18,
+      "aceitas": 18,
+      "negadas": 0,
+      "vagasRestantes": 17
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S2",
+      "disciplina": "PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+      "solicitacoes": 16,
+      "aceitas": 16,
+      "negadas": 0,
+      "vagasRestantes": 19
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S3",
+      "disciplina": "COZINHA BRASILEIRA",
+      "solicitacoes": 11,
+      "aceitas": 10,
+      "negadas": 1,
+      "vagasRestantes": 25
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S3",
+      "disciplina": "COZINHA DAS AMÉRICAS",
+      "solicitacoes": 9,
+      "aceitas": 9,
+      "negadas": 0,
+      "vagasRestantes": 26
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S3",
+      "disciplina": "ESTUDO DE BEBIDAS E COQUETELARIA",
+      "solicitacoes": 21,
+      "aceitas": 21,
+      "negadas": 0,
+      "vagasRestantes": 14
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S3",
+      "disciplina": "PANIFICAÇÃO",
+      "solicitacoes": 18,
+      "aceitas": 17,
+      "negadas": 1,
+      "vagasRestantes": 18
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S3",
+      "disciplina": "PROJETO SOCIAL",
+      "solicitacoes": 18,
+      "aceitas": 18,
+      "negadas": 0,
+      "vagasRestantes": 17
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S4",
+      "disciplina": "CONFEITARIA",
+      "solicitacoes": 15,
+      "aceitas": 15,
+      "negadas": 0,
+      "vagasRestantes": 20
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S4",
+      "disciplina": "COZINHA EUROPEIA",
+      "solicitacoes": 13,
+      "aceitas": 11,
+      "negadas": 2,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S4",
+      "disciplina": "COZINHA ORIENTAL",
+      "solicitacoes": 16,
+      "aceitas": 15,
+      "negadas": 1,
+      "vagasRestantes": 20
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S4",
+      "disciplina": "GESTÃO DE BARES E RESTAURANTES",
+      "solicitacoes": 16,
+      "aceitas": 14,
+      "negadas": 2,
+      "vagasRestantes": 21
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S4",
+      "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+      "solicitacoes": 14,
+      "aceitas": 13,
+      "negadas": 1,
+      "vagasRestantes": 22
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S4",
+      "disciplina": "SERVIÇOS DE ALIMENTOS E BEBIDAS",
+      "solicitacoes": 17,
+      "aceitas": 16,
+      "negadas": 1,
+      "vagasRestantes": 19
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S5",
+      "disciplina": "COZINHA ALTERNATIVA",
+      "solicitacoes": 6,
+      "aceitas": 4,
+      "negadas": 2,
+      "vagasRestantes": 31
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S5",
+      "disciplina": "COZINHA FRIA",
+      "solicitacoes": 4,
+      "aceitas": 3,
+      "negadas": 1,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Gastronomia",
+      "semestre": "S5",
+      "disciplina": "TÓPICOS AVANÇADOS EM BEBIDAS",
+      "solicitacoes": 3,
+      "aceitas": 0,
+      "negadas": 3,
+      "vagasRestantes": 0
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S1",
+      "disciplina": "TÉCNICA DE COMUNICAÇÃO ORAL E ESCRITA",
+      "solicitacoes": 7,
+      "aceitas": 7,
+      "negadas": 0,
+      "vagasRestantes": 33
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "ESPANHOL BÁSICO II",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 27
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "GESTÃO DE PESSOAS",
+      "solicitacoes": 9,
+      "aceitas": 9,
+      "negadas": 0,
+      "vagasRestantes": 26
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "INTRODUÇÃO À CONTABILIDADE",
+      "solicitacoes": 11,
+      "aceitas": 11,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "MARKETING TURÍSTICO",
+      "solicitacoes": 7,
+      "aceitas": 7,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "MATEMÁTICA COMERCIAL E FINANCEIRA",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 27
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+      "solicitacoes": 11,
+      "aceitas": 11,
+      "negadas": 0,
+      "vagasRestantes": 24
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "PROCESSOS DE RESERVA E DE RECEPÇÃO",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 27
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S2",
+      "disciplina": "SUSTENTABILIDADE NOS MEIOS DE HOSPEDAGEM",
+      "solicitacoes": 9,
+      "aceitas": 9,
+      "negadas": 0,
+      "vagasRestantes": 26
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "COMUNICAÇÃO ORAL EM ESPANHOL III",
+      "solicitacoes": 6,
+      "aceitas": 6,
+      "negadas": 0,
+      "vagasRestantes": 34
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "COMUNICAÇÃO ORAL EM INGLÊS III",
+      "solicitacoes": 2,
+      "aceitas": 2,
+      "negadas": 0,
+      "vagasRestantes": 38
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "ESTUDO DA VIABILIDADE DOS EMPREENDIMENTOS HOTELEIROS",
+      "solicitacoes": 12,
+      "aceitas": 12,
+      "negadas": 0,
+      "vagasRestantes": 28
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "ESTUDO DE BEBIDAS E COQUETELARIA",
+      "solicitacoes": 8,
+      "aceitas": 8,
+      "negadas": 0,
+      "vagasRestantes": 32
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "GESTÃO DA QUALIDADE NOS MEIOS DE HOSPEDAGEM",
+      "solicitacoes": 10,
+      "aceitas": 10,
+      "negadas": 0,
+      "vagasRestantes": 30
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "GESTÃO EM ALIMENTOS E BEBIDAS",
+      "solicitacoes": 2,
+      "aceitas": 2,
+      "negadas": 0,
+      "vagasRestantes": 33
+    },
+    {
+      "periodo": "2026.2",
+      "curso": "Tecnologia em Hotelaria",
+      "semestre": "S4",
+      "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO I",
+      "solicitacoes": 1,
+      "aceitas": 1,
+      "negadas": 0,
+      "vagasRestantes": 34
+    }
+  ]
+}
