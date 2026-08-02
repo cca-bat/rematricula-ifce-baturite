@@ -18,6 +18,10 @@
       .toLocaleLowerCase("pt-BR");
   }
 
+  function offerCardId(card) {
+    return card?.dataset.offerId || "";
+  }
+
   function unique(items) {
     return [...new Set(items)].sort((a, b) =>
       a.localeCompare(b, "pt-BR", { numeric: true }),
@@ -34,6 +38,7 @@
     url.searchParams.set("periodo", item.periodo);
     url.searchParams.set("curso", item.curso);
     url.searchParams.set("semestre", item.semestre);
+    if (item.ofertaId) url.searchParams.set("oferta", item.ofertaId);
     url.searchParams.set("disciplina", item.disciplina);
     return `${url.pathname}?${url.searchParams.toString()}`;
   }
@@ -44,7 +49,7 @@
     return `
       <tr>
         <td data-label="Disciplina">
-          <a class="results-discipline-link" href="${escapeHtml(offerUrl(item))}" data-offer-link aria-label="Ver horários e detalhes de ${escapeHtml(item.disciplina)}">
+          <a class="results-discipline-link" href="${escapeHtml(offerUrl(item))}" data-offer-link data-offer-id="${escapeHtml(item.ofertaId || "")}" aria-label="Ver horários e detalhes de ${escapeHtml(item.disciplina)}">
             <strong>${escapeHtml(item.disciplina)}</strong>
             <small>Ver horários e detalhes →</small>
           </a>
@@ -162,17 +167,24 @@
       await wait();
       setValue(
         offersSection.querySelector('.filters input[type="search"]'),
-        item.disciplina,
+        item.ofertaId || item.disciplina,
         "input",
       );
       await wait(100);
 
-      const target = [...offersSection.querySelectorAll(".offer-card")].find(
-        (card) =>
-          !card.classList.contains("unavailable-card") &&
-          normalize(card.querySelector("h3")?.textContent) ===
+      const availableCards = [
+        ...offersSection.querySelectorAll(".offer-card"),
+      ].filter((card) => !card.classList.contains("unavailable-card"));
+      const target =
+        (item.ofertaId &&
+          availableCards.find(
+            (card) => offerCardId(card) === item.ofertaId,
+          )) ||
+        availableCards.find(
+          (card) =>
+            normalize(card.querySelector("h3")?.textContent) ===
             normalize(item.disciplina),
-      );
+        );
       (target || offersSection).scrollIntoView({
         behavior: "smooth",
         block: target ? "center" : "start",
@@ -301,13 +313,16 @@
       if (!link) return;
       event.preventDefault();
       const row = link.closest("tr");
+      const linkedOfferId = link.dataset.offerId;
       const item = data.resultados.find(
         (candidate) =>
-          candidate.periodo === row.children[1].textContent.trim() &&
-          candidate.curso === row.children[2].textContent.trim() &&
-          candidate.semestre === row.children[3].textContent.trim() &&
-          normalize(candidate.disciplina) ===
-            normalize(link.querySelector("strong").textContent),
+          (linkedOfferId && candidate.ofertaId === linkedOfferId) ||
+          (!linkedOfferId &&
+            candidate.periodo === row.children[1].textContent.trim() &&
+            candidate.curso === row.children[2].textContent.trim() &&
+            candidate.semestre === row.children[3].textContent.trim() &&
+            normalize(candidate.disciplina) ===
+              normalize(link.querySelector("strong").textContent)),
       );
       if (!item) return;
       window.history.replaceState({}, "", offerUrl(item));
@@ -317,12 +332,15 @@
     render();
 
     const params = new URLSearchParams(window.location.search);
+    const linkedOfferId = params.get("oferta");
     const linkedItem = data.resultados.find(
       (item) =>
-        item.periodo === params.get("periodo") &&
-        item.curso === params.get("curso") &&
-        item.semestre === params.get("semestre") &&
-        normalize(item.disciplina) === normalize(params.get("disciplina")),
+        (linkedOfferId && item.ofertaId === linkedOfferId) ||
+        (!linkedOfferId &&
+          item.periodo === params.get("periodo") &&
+          item.curso === params.get("curso") &&
+          item.semestre === params.get("semestre") &&
+          normalize(item.disciplina) === normalize(params.get("disciplina"))),
     );
     if (linkedItem) window.setTimeout(() => focusOffer(linkedItem), 120);
   }
