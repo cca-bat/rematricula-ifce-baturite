@@ -16,7 +16,8 @@
       "solicitacoes": 27,
       "aceitas": 27,
       "negadas": 0,
-      "vagasRestantes": 13
+      "vagasRestantes": 13,
+      "ofertaId": "of-001"
     },
     {
       "periodo": "2026.1",
@@ -26,7 +27,8 @@
       "solicitacoes": 23,
       "aceitas": 22,
       "negadas": 1,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-002"
     },
     {
       "periodo": "2026.1",
@@ -36,7 +38,8 @@
       "solicitacoes": 25,
       "aceitas": 25,
       "negadas": 0,
-      "vagasRestantes": 15
+      "vagasRestantes": 15,
+      "ofertaId": "of-003"
     },
     {
       "periodo": "2026.1",
@@ -46,7 +49,8 @@
       "solicitacoes": 26,
       "aceitas": 26,
       "negadas": 0,
-      "vagasRestantes": 14
+      "vagasRestantes": 14,
+      "ofertaId": "of-004"
     },
     {
       "periodo": "2026.1",
@@ -56,7 +60,8 @@
       "solicitacoes": 23,
       "aceitas": 22,
       "negadas": 1,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-005"
     },
     {
       "periodo": "2026.1",
@@ -66,7 +71,8 @@
       "solicitacoes": 23,
       "aceitas": 22,
       "negadas": 1,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-006"
     },
     {
       "periodo": "2026.1",
@@ -76,7 +82,8 @@
       "solicitacoes": 17,
       "aceitas": 17,
       "negadas": 0,
-      "vagasRestantes": 23
+      "vagasRestantes": 23,
+      "ofertaId": "of-007"
     },
     {
       "periodo": "2026.1",
@@ -86,7 +93,8 @@
       "solicitacoes": 24,
       "aceitas": 21,
       "negadas": 3,
-      "vagasRestantes": 19
+      "vagasRestantes": 19,
+      "ofertaId": "of-008"
     },
     {
       "periodo": "2026.1",
@@ -96,7 +104,8 @@
       "solicitacoes": 12,
       "aceitas": 10,
       "negadas": 2,
-      "vagasRestantes": 30
+      "vagasRestantes": 30,
+      "ofertaId": "of-009"
     },
     {
       "periodo": "2026.1",
@@ -106,7 +115,8 @@
       "solicitacoes": 20,
       "aceitas": 20,
       "negadas": 0,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-010"
     },
     {
       "periodo": "2026.1",
@@ -116,7 +126,8 @@
       "solicitacoes": 10,
       "aceitas": 10,
       "negadas": 0,
-      "vagasRestantes": 30
+      "vagasRestantes": 30,
+      "ofertaId": "of-011"
     },
     {
       "periodo": "2026.1",
@@ -126,7 +137,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-012"
     },
     {
       "periodo": "2026.1",
@@ -136,7 +148,8 @@
       "solicitacoes": 18,
       "aceitas": 17,
       "negadas": 1,
-      "vagasRestantes": 23
+      "vagasRestantes": 23,
+      "ofertaId": "of-013"
     },
     {
       "periodo": "2026.1",
@@ -146,7 +159,8 @@
       "solicitacoes": 25,
       "aceitas": 24,
       "negadas": 1,
-      "vagasRestantes": 16
+      "vagasRestantes": 16,
+      "ofertaId": "of-014"
     },
     {
       "periodo": "2026.1",
@@ -156,7 +170,8 @@
       "solicitacoes": 7,
       "aceitas": 7,
       "negadas": 0,
-      "vagasRestantes": 33
+      "vagasRestantes": 33,
+      "ofertaId": "of-015"
     },
     {
       "periodo": "2026.1",
@@ -166,7 +181,8 @@
       "solicitacoes": 11,
       "aceitas": 11,
       "negadas": 0,
-      "vagasRestantes": 29
+      "vagasRestantes": 29,
+      "ofertaId": "of-016"
     },
     {
       "periodo": "2026.1",
@@ -176,7 +192,8 @@
       "solicitacoes": 11,
       "aceitas": 11,
       "negadas": 0,
-      "vagasRestantes": 29
+      "vagasRestantes": 29,
+      "ofertaId": "of-017"
     },
     {
       "periodo": "2026.1",
@@ -186,7 +203,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-018"
     },
     {
       "periodo": "2026.1",
@@ -196,7 +214,8 @@
       "solicitacoes": 21,
       "aceitas": 20,
       "negadas": 1,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-019"
     },
     {
       "periodo": "2026.1",
@@ -206,7 +225,8 @@
       "solicitacoes": 0,
       "aceitas": 0,
       "negadas": 0,
-      "vagasRestantes": 40
+      "vagasRestantes": 40,
+      "ofertaId": "of-020"
     },
     {
       "periodo": "2026.1",
@@ -216,7 +236,8 @@
       "solicitacoes": 0,
       "aceitas": 0,
       "negadas": 0,
-      "vagasRestantes": 40
+      "vagasRestantes": 40,
+      "ofertaId": "of-021"
     },
     {
       "periodo": "2026.1",
@@ -226,7 +247,8 @@
       "solicitacoes": 0,
       "aceitas": 0,
       "negadas": 0,
-      "vagasRestantes": 40
+      "vagasRestantes": 40,
+      "ofertaId": "of-022"
     },
     {
       "periodo": "2026.1",
@@ -236,7 +258,8 @@
       "solicitacoes": 10,
       "aceitas": 8,
       "negadas": 2,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-023"
     },
     {
       "periodo": "2026.1",
@@ -246,7 +269,8 @@
       "solicitacoes": 20,
       "aceitas": 20,
       "negadas": 0,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-024"
     },
     {
       "periodo": "2026.1",
@@ -256,7 +280,8 @@
       "solicitacoes": 22,
       "aceitas": 22,
       "negadas": 0,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-025"
     },
     {
       "periodo": "2026.2",
@@ -266,7 +291,8 @@
       "solicitacoes": 34,
       "aceitas": 33,
       "negadas": 1,
-      "vagasRestantes": 7
+      "vagasRestantes": 7,
+      "ofertaId": "of-026"
     },
     {
       "periodo": "2026.2",
@@ -276,7 +302,8 @@
       "solicitacoes": 29,
       "aceitas": 29,
       "negadas": 0,
-      "vagasRestantes": 11
+      "vagasRestantes": 11,
+      "ofertaId": "of-027"
     },
     {
       "periodo": "2026.2",
@@ -286,7 +313,8 @@
       "solicitacoes": 26,
       "aceitas": 26,
       "negadas": 0,
-      "vagasRestantes": 14
+      "vagasRestantes": 14,
+      "ofertaId": "of-028"
     },
     {
       "periodo": "2026.2",
@@ -296,7 +324,8 @@
       "solicitacoes": 27,
       "aceitas": 27,
       "negadas": 0,
-      "vagasRestantes": 13
+      "vagasRestantes": 13,
+      "ofertaId": "of-029"
     },
     {
       "periodo": "2026.2",
@@ -306,7 +335,8 @@
       "solicitacoes": 34,
       "aceitas": 34,
       "negadas": 0,
-      "vagasRestantes": 6
+      "vagasRestantes": 6,
+      "ofertaId": "of-030"
     },
     {
       "periodo": "2026.2",
@@ -316,7 +346,8 @@
       "solicitacoes": 30,
       "aceitas": 30,
       "negadas": 0,
-      "vagasRestantes": 10
+      "vagasRestantes": 10,
+      "ofertaId": "of-031"
     },
     {
       "periodo": "2026.2",
@@ -326,7 +357,8 @@
       "solicitacoes": 30,
       "aceitas": 30,
       "negadas": 0,
-      "vagasRestantes": 10
+      "vagasRestantes": 10,
+      "ofertaId": "of-032"
     },
     {
       "periodo": "2026.2",
@@ -336,7 +368,8 @@
       "solicitacoes": 21,
       "aceitas": 20,
       "negadas": 1,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-033"
     },
     {
       "periodo": "2026.2",
@@ -346,7 +379,8 @@
       "solicitacoes": 24,
       "aceitas": 24,
       "negadas": 0,
-      "vagasRestantes": 16
+      "vagasRestantes": 16,
+      "ofertaId": "of-034"
     },
     {
       "periodo": "2026.2",
@@ -356,7 +390,8 @@
       "solicitacoes": 15,
       "aceitas": 15,
       "negadas": 0,
-      "vagasRestantes": 25
+      "vagasRestantes": 25,
+      "ofertaId": "of-035"
     },
     {
       "periodo": "2026.2",
@@ -366,7 +401,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-036"
     },
     {
       "periodo": "2026.2",
@@ -376,7 +412,8 @@
       "solicitacoes": 13,
       "aceitas": 13,
       "negadas": 0,
-      "vagasRestantes": 27
+      "vagasRestantes": 27,
+      "ofertaId": "of-037"
     },
     {
       "periodo": "2026.2",
@@ -386,7 +423,8 @@
       "solicitacoes": 15,
       "aceitas": 14,
       "negadas": 1,
-      "vagasRestantes": 26
+      "vagasRestantes": 26,
+      "ofertaId": "of-038"
     },
     {
       "periodo": "2026.2",
@@ -396,7 +434,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-039"
     },
     {
       "periodo": "2026.2",
@@ -406,7 +445,8 @@
       "solicitacoes": 27,
       "aceitas": 26,
       "negadas": 1,
-      "vagasRestantes": 14
+      "vagasRestantes": 14,
+      "ofertaId": "of-040"
     },
     {
       "periodo": "2026.2",
@@ -416,7 +456,8 @@
       "solicitacoes": 22,
       "aceitas": 19,
       "negadas": 3,
-      "vagasRestantes": 21
+      "vagasRestantes": 21,
+      "ofertaId": "of-041"
     },
     {
       "periodo": "2026.2",
@@ -426,7 +467,8 @@
       "solicitacoes": 19,
       "aceitas": 19,
       "negadas": 0,
-      "vagasRestantes": 21
+      "vagasRestantes": 21,
+      "ofertaId": "of-042"
     },
     {
       "periodo": "2026.2",
@@ -436,7 +478,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-043"
     },
     {
       "periodo": "2026.2",
@@ -446,7 +489,8 @@
       "solicitacoes": 17,
       "aceitas": 17,
       "negadas": 0,
-      "vagasRestantes": 23
+      "vagasRestantes": 23,
+      "ofertaId": "of-044"
     },
     {
       "periodo": "2026.2",
@@ -456,7 +500,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-045"
     },
     {
       "periodo": "2026.2",
@@ -466,7 +511,8 @@
       "solicitacoes": 21,
       "aceitas": 21,
       "negadas": 0,
-      "vagasRestantes": 19
+      "vagasRestantes": 19,
+      "ofertaId": "of-046"
     },
     {
       "periodo": "2026.2",
@@ -476,7 +522,8 @@
       "solicitacoes": 20,
       "aceitas": 18,
       "negadas": 2,
-      "vagasRestantes": 22
+      "vagasRestantes": 22,
+      "ofertaId": "of-047"
     },
     {
       "periodo": "2026.2",
@@ -486,7 +533,8 @@
       "solicitacoes": 23,
       "aceitas": 22,
       "negadas": 1,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-048"
     },
     {
       "periodo": "2026.2",
@@ -496,7 +544,8 @@
       "solicitacoes": 18,
       "aceitas": 18,
       "negadas": 0,
-      "vagasRestantes": 22
+      "vagasRestantes": 22,
+      "ofertaId": "of-049"
     },
     {
       "periodo": "2026.2",
@@ -506,7 +555,8 @@
       "solicitacoes": 21,
       "aceitas": 21,
       "negadas": 0,
-      "vagasRestantes": 19
+      "vagasRestantes": 19,
+      "ofertaId": "of-050"
     },
     {
       "periodo": "2026.2",
@@ -516,7 +566,8 @@
       "solicitacoes": 26,
       "aceitas": 26,
       "negadas": 0,
-      "vagasRestantes": 14
+      "vagasRestantes": 14,
+      "ofertaId": "of-051"
     },
     {
       "periodo": "2026.2",
@@ -526,7 +577,8 @@
       "solicitacoes": 21,
       "aceitas": 19,
       "negadas": 2,
-      "vagasRestantes": 21
+      "vagasRestantes": 21,
+      "ofertaId": "of-052"
     },
     {
       "periodo": "2026.2",
@@ -536,7 +588,8 @@
       "solicitacoes": 27,
       "aceitas": 27,
       "negadas": 0,
-      "vagasRestantes": 13
+      "vagasRestantes": 13,
+      "ofertaId": "of-053"
     },
     {
       "periodo": "2026.2",
@@ -546,7 +599,8 @@
       "solicitacoes": 24,
       "aceitas": 24,
       "negadas": 0,
-      "vagasRestantes": 16
+      "vagasRestantes": 16,
+      "ofertaId": "of-054"
     },
     {
       "periodo": "2026.2",
@@ -556,7 +610,8 @@
       "solicitacoes": 15,
       "aceitas": 14,
       "negadas": 1,
-      "vagasRestantes": 26
+      "vagasRestantes": 26,
+      "ofertaId": "of-055"
     },
     {
       "periodo": "2026.2",
@@ -566,7 +621,8 @@
       "solicitacoes": 49,
       "aceitas": 40,
       "negadas": 9,
-      "vagasRestantes": 0
+      "vagasRestantes": 0,
+      "ofertaId": "of-056"
     },
     {
       "periodo": "2026.2",
@@ -576,7 +632,8 @@
       "solicitacoes": 18,
       "aceitas": 18,
       "negadas": 0,
-      "vagasRestantes": 22
+      "vagasRestantes": 22,
+      "ofertaId": "of-057"
     },
     {
       "periodo": "2026.2",
@@ -586,7 +643,8 @@
       "solicitacoes": 22,
       "aceitas": 22,
       "negadas": 0,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-058"
     },
     {
       "periodo": "2026.2",
@@ -596,7 +654,8 @@
       "solicitacoes": 18,
       "aceitas": 18,
       "negadas": 0,
-      "vagasRestantes": 22
+      "vagasRestantes": 22,
+      "ofertaId": "of-059"
     },
     {
       "periodo": "2026.2",
@@ -606,7 +665,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-060"
     },
     {
       "periodo": "2026.2",
@@ -616,7 +676,8 @@
       "solicitacoes": 13,
       "aceitas": 12,
       "negadas": 1,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-061"
     },
     {
       "periodo": "2026.2",
@@ -626,7 +687,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-062"
     },
     {
       "periodo": "2026.2",
@@ -636,7 +698,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-063"
     },
     {
       "periodo": "2026.2",
@@ -646,7 +709,8 @@
       "solicitacoes": 13,
       "aceitas": 13,
       "negadas": 0,
-      "vagasRestantes": 27
+      "vagasRestantes": 27,
+      "ofertaId": "of-064"
     },
     {
       "periodo": "2026.2",
@@ -656,7 +720,8 @@
       "solicitacoes": 13,
       "aceitas": 13,
       "negadas": 0,
-      "vagasRestantes": 27
+      "vagasRestantes": 27,
+      "ofertaId": "of-065"
     },
     {
       "periodo": "2026.2",
@@ -666,7 +731,8 @@
       "solicitacoes": 15,
       "aceitas": 15,
       "negadas": 0,
-      "vagasRestantes": 25
+      "vagasRestantes": 25,
+      "ofertaId": "of-066"
     },
     {
       "periodo": "2026.2",
@@ -676,7 +742,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-067"
     },
     {
       "periodo": "2026.2",
@@ -686,7 +753,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-068"
     },
     {
       "periodo": "2026.2",
@@ -696,7 +764,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-069"
     },
     {
       "periodo": "2026.2",
@@ -706,7 +775,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-070"
     },
     {
       "periodo": "2026.2",
@@ -716,7 +786,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-071"
     },
     {
       "periodo": "2026.2",
@@ -726,7 +797,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-072"
     },
     {
       "periodo": "2026.2",
@@ -736,7 +808,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-073"
     },
     {
       "periodo": "2026.2",
@@ -746,7 +819,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-074"
     },
     {
       "periodo": "2026.2",
@@ -756,7 +830,8 @@
       "solicitacoes": 2,
       "aceitas": 2,
       "negadas": 0,
-      "vagasRestantes": 38
+      "vagasRestantes": 38,
+      "ofertaId": "of-075"
     },
     {
       "periodo": "2026.2",
@@ -766,7 +841,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-076"
     },
     {
       "periodo": "2026.2",
@@ -776,7 +852,8 @@
       "solicitacoes": 9,
       "aceitas": 9,
       "negadas": 0,
-      "vagasRestantes": 31
+      "vagasRestantes": 31,
+      "ofertaId": "of-077"
     },
     {
       "periodo": "2026.2",
@@ -786,7 +863,8 @@
       "solicitacoes": 15,
       "aceitas": 15,
       "negadas": 0,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-078"
     },
     {
       "periodo": "2026.2",
@@ -796,7 +874,8 @@
       "solicitacoes": 14,
       "aceitas": 14,
       "negadas": 0,
-      "vagasRestantes": 21
+      "vagasRestantes": 21,
+      "ofertaId": "of-079"
     },
     {
       "periodo": "2026.2",
@@ -806,7 +885,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 23
+      "vagasRestantes": 23,
+      "ofertaId": "of-080"
     },
     {
       "periodo": "2026.2",
@@ -816,7 +896,8 @@
       "solicitacoes": 15,
       "aceitas": 14,
       "negadas": 1,
-      "vagasRestantes": 21
+      "vagasRestantes": 21,
+      "ofertaId": "of-081"
     },
     {
       "periodo": "2026.2",
@@ -826,7 +907,8 @@
       "solicitacoes": 13,
       "aceitas": 13,
       "negadas": 0,
-      "vagasRestantes": 22
+      "vagasRestantes": 22,
+      "ofertaId": "of-082"
     },
     {
       "periodo": "2026.2",
@@ -836,7 +918,8 @@
       "solicitacoes": 18,
       "aceitas": 18,
       "negadas": 0,
-      "vagasRestantes": 17
+      "vagasRestantes": 17,
+      "ofertaId": "of-083"
     },
     {
       "periodo": "2026.2",
@@ -846,7 +929,8 @@
       "solicitacoes": 16,
       "aceitas": 16,
       "negadas": 0,
-      "vagasRestantes": 19
+      "vagasRestantes": 19,
+      "ofertaId": "of-084"
     },
     {
       "periodo": "2026.2",
@@ -856,7 +940,8 @@
       "solicitacoes": 11,
       "aceitas": 10,
       "negadas": 1,
-      "vagasRestantes": 25
+      "vagasRestantes": 25,
+      "ofertaId": "of-085"
     },
     {
       "periodo": "2026.2",
@@ -866,7 +951,8 @@
       "solicitacoes": 9,
       "aceitas": 9,
       "negadas": 0,
-      "vagasRestantes": 26
+      "vagasRestantes": 26,
+      "ofertaId": "of-086"
     },
     {
       "periodo": "2026.2",
@@ -876,7 +962,8 @@
       "solicitacoes": 21,
       "aceitas": 21,
       "negadas": 0,
-      "vagasRestantes": 14
+      "vagasRestantes": 14,
+      "ofertaId": "of-087"
     },
     {
       "periodo": "2026.2",
@@ -886,7 +973,8 @@
       "solicitacoes": 18,
       "aceitas": 17,
       "negadas": 1,
-      "vagasRestantes": 18
+      "vagasRestantes": 18,
+      "ofertaId": "of-088"
     },
     {
       "periodo": "2026.2",
@@ -896,7 +984,8 @@
       "solicitacoes": 18,
       "aceitas": 18,
       "negadas": 0,
-      "vagasRestantes": 17
+      "vagasRestantes": 17,
+      "ofertaId": "of-089"
     },
     {
       "periodo": "2026.2",
@@ -906,7 +995,8 @@
       "solicitacoes": 15,
       "aceitas": 15,
       "negadas": 0,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-090"
     },
     {
       "periodo": "2026.2",
@@ -916,7 +1006,8 @@
       "solicitacoes": 13,
       "aceitas": 11,
       "negadas": 2,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-091"
     },
     {
       "periodo": "2026.2",
@@ -926,7 +1017,8 @@
       "solicitacoes": 16,
       "aceitas": 15,
       "negadas": 1,
-      "vagasRestantes": 20
+      "vagasRestantes": 20,
+      "ofertaId": "of-092"
     },
     {
       "periodo": "2026.2",
@@ -936,7 +1028,8 @@
       "solicitacoes": 16,
       "aceitas": 14,
       "negadas": 2,
-      "vagasRestantes": 21
+      "vagasRestantes": 21,
+      "ofertaId": "of-093"
     },
     {
       "periodo": "2026.2",
@@ -946,7 +1039,8 @@
       "solicitacoes": 14,
       "aceitas": 13,
       "negadas": 1,
-      "vagasRestantes": 22
+      "vagasRestantes": 22,
+      "ofertaId": "of-094"
     },
     {
       "periodo": "2026.2",
@@ -956,7 +1050,8 @@
       "solicitacoes": 17,
       "aceitas": 16,
       "negadas": 1,
-      "vagasRestantes": 19
+      "vagasRestantes": 19,
+      "ofertaId": "of-095"
     },
     {
       "periodo": "2026.2",
@@ -966,7 +1061,8 @@
       "solicitacoes": 6,
       "aceitas": 4,
       "negadas": 2,
-      "vagasRestantes": 31
+      "vagasRestantes": 31,
+      "ofertaId": "of-096"
     },
     {
       "periodo": "2026.2",
@@ -976,7 +1072,8 @@
       "solicitacoes": 4,
       "aceitas": 3,
       "negadas": 1,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-097"
     },
     {
       "periodo": "2026.2",
@@ -986,7 +1083,8 @@
       "solicitacoes": 0,
       "aceitas": 0,
       "negadas": 0,
-      "vagasRestantes": 35
+      "vagasRestantes": 35,
+      "ofertaId": "of-098"
     },
     {
       "periodo": "2026.2",
@@ -996,7 +1094,8 @@
       "solicitacoes": 7,
       "aceitas": 7,
       "negadas": 0,
-      "vagasRestantes": 33
+      "vagasRestantes": 33,
+      "ofertaId": "of-099"
     },
     {
       "periodo": "2026.2",
@@ -1006,7 +1105,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 27
+      "vagasRestantes": 27,
+      "ofertaId": "of-100"
     },
     {
       "periodo": "2026.2",
@@ -1016,7 +1116,8 @@
       "solicitacoes": 9,
       "aceitas": 9,
       "negadas": 0,
-      "vagasRestantes": 26
+      "vagasRestantes": 26,
+      "ofertaId": "of-101"
     },
     {
       "periodo": "2026.2",
@@ -1026,7 +1127,8 @@
       "solicitacoes": 11,
       "aceitas": 11,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-102"
     },
     {
       "periodo": "2026.2",
@@ -1036,7 +1138,8 @@
       "solicitacoes": 7,
       "aceitas": 7,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-103"
     },
     {
       "periodo": "2026.2",
@@ -1046,7 +1149,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 27
+      "vagasRestantes": 27,
+      "ofertaId": "of-104"
     },
     {
       "periodo": "2026.2",
@@ -1056,7 +1160,8 @@
       "solicitacoes": 11,
       "aceitas": 11,
       "negadas": 0,
-      "vagasRestantes": 24
+      "vagasRestantes": 24,
+      "ofertaId": "of-105"
     },
     {
       "periodo": "2026.2",
@@ -1066,7 +1171,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 27
+      "vagasRestantes": 27,
+      "ofertaId": "of-106"
     },
     {
       "periodo": "2026.2",
@@ -1076,7 +1182,8 @@
       "solicitacoes": 9,
       "aceitas": 9,
       "negadas": 0,
-      "vagasRestantes": 26
+      "vagasRestantes": 26,
+      "ofertaId": "of-107"
     },
     {
       "periodo": "2026.2",
@@ -1086,7 +1193,8 @@
       "solicitacoes": 6,
       "aceitas": 6,
       "negadas": 0,
-      "vagasRestantes": 34
+      "vagasRestantes": 34,
+      "ofertaId": "of-108"
     },
     {
       "periodo": "2026.2",
@@ -1096,7 +1204,8 @@
       "solicitacoes": 2,
       "aceitas": 2,
       "negadas": 0,
-      "vagasRestantes": 38
+      "vagasRestantes": 38,
+      "ofertaId": "of-109"
     },
     {
       "periodo": "2026.2",
@@ -1106,7 +1215,8 @@
       "solicitacoes": 12,
       "aceitas": 12,
       "negadas": 0,
-      "vagasRestantes": 28
+      "vagasRestantes": 28,
+      "ofertaId": "of-110"
     },
     {
       "periodo": "2026.2",
@@ -1116,7 +1226,8 @@
       "solicitacoes": 8,
       "aceitas": 8,
       "negadas": 0,
-      "vagasRestantes": 32
+      "vagasRestantes": 32,
+      "ofertaId": "of-111"
     },
     {
       "periodo": "2026.2",
@@ -1126,7 +1237,8 @@
       "solicitacoes": 10,
       "aceitas": 10,
       "negadas": 0,
-      "vagasRestantes": 30
+      "vagasRestantes": 30,
+      "ofertaId": "of-112"
     },
     {
       "periodo": "2026.2",
@@ -1136,7 +1248,8 @@
       "solicitacoes": 2,
       "aceitas": 2,
       "negadas": 0,
-      "vagasRestantes": 33
+      "vagasRestantes": 33,
+      "ofertaId": "of-113"
     },
     {
       "periodo": "2026.2",
@@ -1146,7 +1259,8 @@
       "solicitacoes": 0,
       "aceitas": 0,
       "negadas": 0,
-      "vagasRestantes": 35
+      "vagasRestantes": 35,
+      "ofertaId": "of-114"
     },
     {
       "periodo": "2026.2",
@@ -1156,7 +1270,8 @@
       "solicitacoes": 1,
       "aceitas": 1,
       "negadas": 0,
-      "vagasRestantes": 34
+      "vagasRestantes": 34,
+      "ofertaId": "of-115"
     }
   ]
 }
