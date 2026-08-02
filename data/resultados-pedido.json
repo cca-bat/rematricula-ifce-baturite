@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "20/07/2026",
+  "atualizadoEm": "02/08/2026",
   "observacao": "As vagas restantes correspondem ao saldo apurado no processamento do Pedido de Matrícula e não garantem vaga em etapas posteriores.",
   "totais": {
     "disciplinas": 115,
@@ -1132,7 +1132,7 @@
       "periodo": "2026.2",
       "curso": "Tecnologia em Hotelaria",
       "semestre": "S4",
-      "disciplina": "Gestão em Alimentos e Bebidas",
+      "disciplina": "Controle e Gestão de A & B",
       "solicitacoes": 2,
       "aceitas": 2,
       "negadas": 0,
@@ -1142,7 +1142,7 @@
       "periodo": "2026.2",
       "curso": "Tecnologia em Hotelaria",
       "semestre": "S4",
-      "disciplina": "Serviço de A & B",
+      "disciplina": "Serviços de A & B",
       "solicitacoes": 0,
       "aceitas": 0,
       "negadas": 0,
